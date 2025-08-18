@@ -15,7 +15,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
 </p>
 
 <p align="center">
