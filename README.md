@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/harshiill/harshiill/blob/main/banner.png" alt="Harshil Khandelwal Banner" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Harshil Khandelwal</h1>
 
