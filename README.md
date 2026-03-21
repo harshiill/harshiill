@@ -1,53 +1,56 @@
-
 <h1 align="center">Hi 👋, I'm Harshil Khandelwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Always+Building+%26+Exploring+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Systems;Exploring+AI+%26+Backend+Engineering;Always+Learning+🚀" />
 </p>
 
 ---
 
 ## 🧠 Tech Stack  
 
+
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" />
 </p>
 
 <p align="center">
-  <!-- Frontend -->
+  <b>Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=html,css,react,next,redux,tailwind" />
-  <img src="https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=zustand&logoColor=orange" height="28" />
 </p>
 
 <p align="center">
-  <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-  <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" height="28" />
+  <b>Backend & Infra</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker,aws" />
 </p>
 
 <p align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://img.shields.io/badge/bcrypt-%2300A7C2.svg?style=for-the-badge&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28" />
+  <b>AI / Data</b><br/>
+  <img src="https://img.shields.io/badge/RAG-16a34a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Qdrant-ff007a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Neo4j-008cc1?style=flat-square"/>
 </p>
 
 ---
 
 ## 🚀 What I Do  
 
-💻 **Full Stack Development** → Crafting modern web apps with React, Next.js, Node.js, and MongoDB.  
-⚡ **System Design & Problem Solving** → Love building scalable backends & optimizing performance.  
-🌱 **Always Learning** → Exploring new tools, frameworks, and open-source contributions.  
+💻 Full Stack Development → Building scalable web apps with modern stacks  
+⚡ Backend & System Design → Focused on performance, APIs, and architecture  
+🤖 AI Engineering → Working with RAG, LLMs, and intelligent systems  
+🌱 Always Learning → Exploring new tools and open-source  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=harshiill&theme=merko&hide_border=true&show_icons=true" height="165"/>  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harshiill&theme=merko&hide_border=true" height="165"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=harshiill&theme=merko&hide_border=true&show_icons=true" height="160"/>  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harshiill&theme=merko&hide_border=true" height="160"/>  
 </p>  
 
 ---
